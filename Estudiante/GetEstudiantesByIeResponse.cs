@@ -12,7 +12,7 @@ public class GetEstudiantesByIeResponse
     public string ApellidosNombres { get; set; }
 
     //public string ApellidoPaterno { get; set; }
-    //public string ApellidoMaterno { get; set; }
+    //public string ApellidoMaterno { get; set; } // ccc
     //public string Nombres { get; set; }
     public string DescripcionSeccion { get; set; }
 
